@@ -1,0 +1,11 @@
+C:\Users\or836\Desktop\mid\bin\Debug\mid.exe.config
+C:\Users\or836\Desktop\mid\bin\Debug\mid.exe
+C:\Users\or836\Desktop\mid\bin\Debug\mid.pdb
+C:\Users\or836\Desktop\mid\obj\Debug\mid.csprojResolveAssemblyReference.cache
+C:\Users\or836\Desktop\mid\obj\Debug\mid.Form1.resources
+C:\Users\or836\Desktop\mid\obj\Debug\mid.Properties.Resources.resources
+C:\Users\or836\Desktop\mid\obj\Debug\mid.csproj.GenerateResource.Cache
+C:\Users\or836\Desktop\mid\obj\Debug\mid.csproj.CoreCompileInputs.cache
+C:\Users\or836\Desktop\mid\obj\Debug\mid.exe
+C:\Users\or836\Desktop\mid\obj\Debug\mid.pdb
+C:\Users\or836\Desktop\mid\obj\Debug\mid.Form2.resources
